@@ -1,6 +1,6 @@
-THEME: Black - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+THEME: FlatCode Social Media
+AUTHOR: https://flatcodesm.github.io
+AUTHOR URI: https://flatcodesm.github.io
 VERSION: 1.0
 
 
